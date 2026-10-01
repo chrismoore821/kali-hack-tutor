@@ -1,7 +1,7 @@
 {
   "name": "Red Team Tutor",
   "short_name": "Tutor",
-  "start_url": "tutor.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0b0f17",
   "theme_color": "#0b0f17",
